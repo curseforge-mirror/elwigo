@@ -1,5 +1,6 @@
-# Curseforge Mirror Template
+# ElWigo Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of Oillamp's ElWigo 
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/elwigo)
+- [Github URL](https://github.com/monopsony/ElWigo)
